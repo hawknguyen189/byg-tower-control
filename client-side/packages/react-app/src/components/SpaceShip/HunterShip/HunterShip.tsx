@@ -243,7 +243,7 @@ const HunterShip = ({ item }: Props) => {
 
             <p>{leftTime}</p>
           </div>
-          <AvailableAsteroid item={item} flightInfo={flightInfo} />
+          {/* <AvailableAsteroid item={item} flightInfo={flightInfo} /> */}
         </div>
       </div>
     </div>

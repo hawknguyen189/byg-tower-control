@@ -3,6 +3,7 @@
   "author": "Hawk Eye",
   "version": "1.0.0",
   "homepage": "./",
+  "proxy": "http://localhost:3001/",
   "license": "MIT",
   "browserslist": {
     "production": [
